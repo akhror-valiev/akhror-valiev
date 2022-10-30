@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Ruby and Rails**
 
-- 👨‍💻 All of my projects are available at [https://www.ahror-valiev.com/](https://www.ahror-valiev.com/)
+- 👨‍💻 All of my projects are available at [www.ahror-valiev.com](https://www.ahror-valiev.com/)
 
 - 💬 Ask me about **JavaScript, React, Next.js Redux**
 
