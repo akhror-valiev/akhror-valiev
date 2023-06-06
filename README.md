@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Ruby and Rails**
 
-- 👨‍💻 All of my projects are available at [www.ahror-valiev.com](https://www.ahror-valiev.com/)
+- 👨‍💻 All of my projects are available at [https://my-portfolio.vercel.app/](https://my-portfolio-vite-ten.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React, Next.js Redux**
 
-- 📫 How to reach me **ahror.valiev@gmail.com**
+- 📫 How to reach me **oshie0115@gmail.com**
 
 - ⚡ Fun fact **Funny guy**
 
