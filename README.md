@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/oshie0115" target="blank"><img src="https://img.shields.io/twitter/follow/oshie0115?logo=twitter&style=for-the-badge" alt="oshie0115" /></a> </p>
 
-- 🔭 I’m currently working on **e-commerce**
+- 🔭 I’m currently working on **Full-Stack Ruby on Rails app**
 
-- 🌱 I’m currently learning **Ruby and Rails**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio.vercel.app/](https://my-portfolio-vite-ten.vercel.app/)
 
-- 💬 Ask me about **JavaScript, React, Next.js Redux**
+- 💬 Ask me about **JavaScript, React.js, Next.js, Ruby on Rails, Docker**
 
-- 📫 How to reach me **oshie0115@gmail.com**
+- 📫 How to reach me **oshie0115@gmail.com or ahror.valiev@gmail.com **
 
 - ⚡ Fun fact **Funny guy**
 
