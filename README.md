@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, React.js, Next.js, Ruby on Rails, Docker**
 
-- 📫 How to reach me **oshie0115@gmail.com or ahror.valiev@gmail.com **
+- 📫 How to reach me **oshie0115@gmail.com **
 
 - ⚡ Fun fact **Funny guy**
 
